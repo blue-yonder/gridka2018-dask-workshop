@@ -1,9 +1,8 @@
 # Scalable Scientific Analysis in Python using Pandas and Dask
-## Tutorial material for the GridKa School 2019 
+## Tutorial material for the GridKa School 2018 
 
-    * https://indico.scc.kit.edu/event/460/contributions/5508/
+    * https://indico.scc.kit.edu/event/427/overview
     * Karlsuhe Institute for Technology
-    * Date, time: 29.08.2019, 13:00 - 18:00
-    * Sebastian Neubauer (Blue Yonder - a JDA Company), 
-    * Florian Jetter (Blue Yonder - a JDA Company)
+    * Date, time: 30.08.2018, 13:00 - 18:00
+    * Sebastian Neubauer (Blue Yonder GmbH), Uwe L. Korn (Blue Yonder GmbH)
 
